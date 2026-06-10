@@ -363,4 +363,5 @@ if __name__ == '__main__':
     print("📍 http://127.0.0.1:5002")
     print("🔑 Login: admin / admin123")
     print("="*50)
-    app.run(debug=True, host='127.0.0.1', port=5002)
+    app.run(debug=True, host='127.0.0.1', port=5002)T h i s   i s   a   n e w   u p d a t e  
+ 
